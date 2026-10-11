@@ -1,0 +1,170 @@
+{
+  "brand": {
+    "name": "SANAD",
+    "tagline": "Verified Healthcare in Egypt",
+    "emergencyBadge": "Emergency: 123"
+  },
+  "nav": {
+    "findDoctors": "Find Doctors",
+    "clinics": "Clinics & Centers",
+    "emergency": "Emergency Care",
+    "howItWorks": "How It Works",
+    "forDoctors": "Join as a Doctor",
+    "devMock": "Dev Mock Mode"
+  },
+  "emergencyBanner": {
+    "title": "URGENT SAFETY ALERT",
+    "message": "This symptom may indicate a medical emergency requiring immediate life-saving care. Do not wait for a clinic appointment.",
+    "action": "Call Ambulance (123)",
+    "actionSecondary": "Find Nearest 24/7 ER",
+    "deemphasizedNotice": "Standard clinic results below are de-emphasized due to the detected medical urgency."
+  },
+  "search": {
+    "placeholder": "Search condition (e.g. toothache, fever), specialty, doctor, or clinic...",
+    "locationAll": "All Egypt",
+    "button": "Search",
+    "conditionBannerPrefix": "Showing",
+    "conditionBannerFor": "for condition",
+    "changeSpecialty": "Change",
+    "clearSearch": "Clear search",
+    "suggestions": {
+      "conditions": "Conditions & Symptoms",
+      "specialtyMapping": "Consult Specialty",
+      "doctors": "Verified Doctors",
+      "clinics": "Clinics & Medical Centers"
+    }
+  },
+  "filters": {
+    "title": "Filter Results",
+    "reset": "Clear All",
+    "apply": "Apply Filters",
+    "mobileFilters": "Filters & Sorting",
+    "close": "Close",
+    "location": "Location / Area",
+    "allLocations": "All locations in Egypt",
+    "specialty": "Specialty",
+    "allSpecialties": "All Specialties",
+    "availability": "Availability",
+    "availAny": "Any date",
+    "availToday": "Available Today",
+    "availTomorrow": "Available Tomorrow",
+    "availWeek": "This Week",
+    "language": "Doctor Language",
+    "langAny": "Any language",
+    "arabic": "Arabic",
+    "english": "English",
+    "french": "French",
+    "german": "German",
+    "visitType": "Visit Type",
+    "visitAny": "All visit types",
+    "inClinic": "In-Clinic Visit",
+    "online": "Online Video Consult",
+    "home": "Home Visit",
+    "rating": "Minimum Rating",
+    "ratingAny": "Any Rating",
+    "rating3": "3.0+ Stars",
+    "rating4": "4.0+ Stars",
+    "rating45": "4.5+ Stars",
+    "fee": "Consultation Fee",
+    "feeAny": "Any Fee",
+    "feeUnder300": "Up to 300 EGP",
+    "fee300To450": "300 - 450 EGP",
+    "feeAbove450": "Above 450 EGP",
+    "payment": "Payment Method",
+    "payAny": "Any method",
+    "cash": "Cash at clinic",
+    "card": "Credit / Debit Card",
+    "wallet": "Mobile Wallets (Vodafone Cash, etc.)",
+    "clinic": "Clinic / Center",
+    "allClinics": "All Clinics"
+  },
+  "sort": {
+    "label": "Sort by:",
+    "best_match": "Best Match",
+    "highest_rating": "Highest Rating",
+    "lowest_fee": "Lowest Fee",
+    "earliest_slot": "Earliest Available",
+    "nearest": "Nearest Location"
+  },
+  "results": {
+    "found_one": "1 verified provider found",
+    "found_other": "{{count}} verified providers found",
+    "viewList": "List View",
+    "viewMap": "Map View",
+    "sponsoredTitle": "Featured & Sponsored Providers",
+    "sponsoredNotice": "Sponsored recommendations are displayed separately and do not influence organic ranking.",
+    "clearAllFilters": "Clear all filters"
+  },
+  "card": {
+    "verified": "Verified Doctor",
+    "verifiedTooltip": "Licensed by the Egyptian Ministry of Health & Medical Syndicate",
+    "yearsExperience": "{{years}} yrs experience",
+    "waitingTime": "Avg wait: {{minutes}} mins",
+    "consultationFee": "Consultation Fee",
+    "nextAvailable": "Next Available:",
+    "noSlots": "No slots available online",
+    "bookNow": "Book Appointment",
+    "viewProfile": "View Profile",
+    "sponsored": "Sponsored"
+  },
+  "details": {
+    "back": "Back to Search Results",
+    "verifiedLicense": "Syndicate Verification",
+    "licenseNum": "Reg: {{num}}",
+    "tabs": {
+      "overview": "Doctor Overview",
+      "services": "Services & Fees",
+      "location": "Clinic & Location",
+      "reviews": "Patient Reviews",
+      "availability": "Schedule & Booking"
+    },
+    "aboutDoctor": "About the Doctor",
+    "education": "Education & Fellowships",
+    "languagesSpoken": "Languages Spoken",
+    "availableServices": "Clinic Services & Pricing",
+    "serviceName": "Service",
+    "serviceFee": "Price",
+    "reviewsHeader": "Patient Experiences",
+    "reviewsSub": "Real reviews from patients who booked and attended consultations through SANAD.",
+    "verifiedVisit": "Verified Visit",
+    "outOfScopeNotice": "Booking Flow Notice",
+    "outOfScopeMsg": "Appointment booking integration is mocked in this module. Your selected date & time have been registered for testing.",
+    "closeModal": "Got it",
+    "bookSidebar": {
+      "title": "Book an Appointment",
+      "feeLabel": "Consultation Fee:",
+      "selectDate": "Select Day",
+      "selectSlot": "Select Appointment Time",
+      "confirmBtn": "Confirm Appointment",
+      "instantConfirmation": "Free cancellation up to 2 hours prior",
+      "clinicAddress": "Clinic Address"
+    }
+  },
+  "clinicDetails": {
+    "back": "Back to Search",
+    "verified": "Verified Medical Center",
+    "hotline": "Hotline",
+    "emergency": "Emergency",
+    "branches": "Available Branches",
+    "services": "Clinical Specialties & Facilities",
+    "doctorsInClinic": "Resident & Consultant Doctors",
+    "photoGallery": "Clinic Gallery",
+    "operatingHours": "Operating Hours"
+  },
+  "states": {
+    "emptyTitle": "No providers match your criteria",
+    "emptyMessage": "We could not find any doctors matching your current filters or query. Try broadening your search or resetting filters.",
+    "emptyResetBtn": "Reset all filters",
+    "emptySuggestions": "Popular suggestions to try:",
+    "errorTitle": "Unable to Load Providers",
+    "errorRetry": "Try Again",
+    "offlineTitle": "You are currently offline",
+    "offlineMessage": "Please check your internet connection. Search results may be out of date."
+  },
+  "mapPlaceholder": {
+    "title": "Interactive Provider Map (Egypt)",
+    "subtitle": "Showing clinic pins across Cairo, Giza, Alexandria & Delta",
+    "legend": "Click any pin on the map to jump directly to doctor information",
+    "note": "Map view placeholder demonstrates responsive split layout without third-party heavy script overhead."
+  }
+}
